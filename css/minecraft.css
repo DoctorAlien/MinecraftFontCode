@@ -1,0 +1,94 @@
+@font-face {
+  font-family: minecraftia !important;
+  src: url('minecraftia.ttf');
+}
+
+.mcfont {
+  font-family: minecraftia;
+}
+
+.mccolor_0 {
+  color: #000000;
+}
+
+.mccolor_1 {
+  color: #0000AA;
+}
+
+.mccolor_2 {
+  color: #00AA00;
+}
+
+.mccolor_3 {
+  color: #00AAAA;
+}
+
+.mccolor_4 {
+  color: #AA0000;
+}
+
+.mccolor_5 {
+  color: #AA00AA;
+}
+
+.mccolor_6 {
+  color: #FFAA00;
+}
+
+.mccolor_7 {
+  color: #AAAAAA;
+}
+
+.mccolor_8 {
+  color: #555555;
+}
+
+.mccolor_9 {
+  color: #5555FF;
+}
+
+.mccolor_a {
+  color: #55FF55;
+}
+
+.mccolor_b {
+  color: #55FFFF;
+}
+
+.mccolor_c {
+  color: #FF5555;
+}
+
+.mccolor_d {
+  color: #FF55FF;
+}
+
+.mccolor_e {
+  color: #FFFF55;
+}
+
+.mccolor_f {
+  color: #FFFFFF;
+}
+
+.mccolor_l {
+  font-weight: 900;
+}
+
+.mcolor_m {
+  text-decoration: line-through;
+}
+
+.mccolor_n {
+  text-decoration: underline:
+}
+
+.mccolor_o {
+  font-style: italic;
+}
+
+.mccolor_r {
+  text-decoration: none;
+  font-style: none;
+  color: #000000;
+}
